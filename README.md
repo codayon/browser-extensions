@@ -30,4 +30,7 @@
 - VisBug by [argyleink](https://nerdy.dev/) | [Chromium](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/visbug/)
 - Lightshot by [app.prntscr.com](https://app.prntscr.com/) | [Chromium](https://chromewebstore.google.com/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightshot/)
 
+## Language
+- LanguageTool by [languagetool.org](https://languagetool.org/) | [Chromium](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)
+
 `note: this repo is under development.`
