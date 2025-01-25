@@ -32,5 +32,6 @@
 
 ## Language
 - LanguageTool by [languagetool.org](https://languagetool.org/) | [Chromium](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)
+- Grammarly by [grammarly.com](https://www.grammarly.com/) | [Chrome](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
 
 `note: this repo is under development.`
