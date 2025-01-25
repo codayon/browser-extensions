@@ -32,6 +32,10 @@
 
 ## Language
 - LanguageTool by [languagetool.org](https://languagetool.org/) | [Chromium](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)
-- Grammarly by [grammarly.com](https://www.grammarly.com/) | [Chrome](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
+- Grammarly by [grammarly.com](https://www.grammarly.com/) | [Chromium](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
+
+## YouTube
+- Unhook by [unhook.app](https://unhook.app/) | [Chromium & Firefox](https://unhook.app/)
+- Return YouTube Dislike by [returnyoutubedislike.com](https://returnyoutubedislike.com/) | [Chromium & Firefox](https://returnyoutubedislike.com/)
 
 `note: this repo is under development.`
