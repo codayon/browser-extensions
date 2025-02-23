@@ -10,6 +10,8 @@
 - Momentum by [momentumdash.com](https://momentumdash.com/) | [Chromium & Firefox](https://momentumdash.com/)
 - Bonjourr by [bounjourr.fr](https://bonjourr.fr/) | [Chromium & Firefox](https://bonjourr.fr/)
 - nightTab by [Kuldeep Matharu](https://github.com/zombieFox) | [Chromium](https://chromewebstore.google.com/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/nighttab/)
+- Infinity New Tab by [www.infinitynewtab.com](https://www.infinitytab.com/) | [Chromium](https://chromewebstore.google.com/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg)
+- News Feed Eradicator [Jordan West](https://github.com/jordwest) | [Chromium](https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/)
 
 ## Privacy
 
@@ -31,10 +33,12 @@
 - Lightshot by [app.prntscr.com](https://app.prntscr.com/) | [Chromium](https://chromewebstore.google.com/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightshot/)
 
 ## Language
+
 - LanguageTool by [languagetool.org](https://languagetool.org/) | [Chromium](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)
 - Grammarly by [grammarly.com](https://www.grammarly.com/) | [Chromium](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
 
 ## YouTube
+
 - Unhook by [unhook.app](https://unhook.app/) | [Chromium & Firefox](https://unhook.app/)
 - Return YouTube Dislike by [returnyoutubedislike.com](https://returnyoutubedislike.com/) | [Chromium & Firefox](https://returnyoutubedislike.com/)
 
