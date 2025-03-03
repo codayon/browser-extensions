@@ -31,7 +31,7 @@
 - Measure-it by [Trishul Goel](https://x.com/trishulgoel) | [Chromium](https://chromewebstore.google.com/detail/Measure-it/jocbgkoackihphodedlefohapackjmna) | [Firefox]()
 - VisBug by [argyleink](https://nerdy.dev/) | [Chromium](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/visbug/)
 - Lightshot by [app.prntscr.com](https://app.prntscr.com/) | [Chromium](https://chromewebstore.google.com/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lightshot/)
-
+- Wappalyzer by [wappalyzer.com](https://www.wappalyzer.com/) | [Chromium](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 ## Language
 
 - LanguageTool by [languagetool.org](https://languagetool.org/) | [Chromium](https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/languagetool/)
