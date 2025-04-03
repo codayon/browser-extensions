@@ -86,6 +86,13 @@ Customize your YouTube experience with these extensions:
 
 ---
 
+## Tools
+
+This are some tools that can be used as extensions:
+
+- **Violentmonkey** by [violentmonkey.github.io](https://violentmonkey.github.io/)
+  🟠🔵🟢 [Chromium & Firefox](https://violentmonkey.github.io/get-it/)
+
 ## Contributing
 
 This repository is still under development! You can help improve this guide by:
